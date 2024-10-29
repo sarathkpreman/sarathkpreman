@@ -1,5 +1,5 @@
 <h1 align="left">💫 About me</h1>
-🔭 I’m currently working on Gryffindor house https://github.com/sarathkpreman/gryffindor.git<br>
+🔭 I’m currently working on Gryffindor house https://github.com/sarathkpreman/recipe-finder.git<br>
 🌱 I’m currently learning React advanced from Coursera Meta front-end Developer<br>
 💬 I'm very much interested to talk about Ai,ML<br>
 ⚡ Fun fact, I'm Crazy about an idea which is floated in the future<br>
