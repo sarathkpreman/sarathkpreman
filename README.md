@@ -36,6 +36,6 @@ See links below ↓
 ## GitHub Analytics
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=transparent&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=sarathkpreman&theme=transparent&hide_border=true" />
 </p>
 
