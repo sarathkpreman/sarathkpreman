@@ -10,22 +10,22 @@ Focus: clean architecture, real-world projects, and LLM integrations, AI/ML rese
 
 > skills --list
 
-Languages     : C, Python, JavaScript, TypeScript  
-Frontend      : React, Tailwind CSS  
-Backend       : Express.js, NestJS, REST, GraphQL  
-Databases     : PostgreSQL, MySQL, MongoDB, Redis  
+Languages     : C, Python, JavaScript, TypeScript
+Frontend      : React, Tailwind CSS
+Backend       : Express.js, NestJS, REST, GraphQL
+Databases     : PostgreSQL, MySQL, MongoDB, Redis
 DevOps/Tools  : Docker, Git, CI/CD, Linux, Google Cloud(basics), Postman, Figma
 Machine Learning:
   - Python · NumPy · Pandas
   - scikit-learn (Model Training & Evaluation)
   - PyTorch (Learning)
-  - Data Preprocessing · Feature Engineering  
+  - Data Preprocessing · Feature Engineering
 
 > current_status
 
-Building   : AI voice transcriptor and AI Gym trainer  
-Learning   : Machine learning fundamental (maths and core algorithms) and Cloud skills  
-Exploring  : AI/ML Poineers research papers..  
+Building   : AI voice transcriptor and AI Gym trainer
+Learning   : Machine learning fundamental (maths and core algorithms) and Cloud skills
+Exploring  : AI/ML Pioneers research papers..
 
 > connect
 See links below ↓
@@ -33,5 +33,9 @@ See links below ↓
 
 [LinkedIn](https://www.linkedin.com/in/sarath-k-p-264764245) · [HackerRank](https://www.hackerrank.com/profile/ssarathckm) · [LeetCode](https://leetcode.com/u/ssarathkp/)
 
+## GitHub Analytics
 
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=transparent&hide_border=true" />
+</p>
 
