@@ -39,3 +39,9 @@ See links below ↓
   <img src="https://streak-stats.demolab.com?user=sarathkpreman&theme=transparent&hide_border=true" />
 </p>
 
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=sarathkpreman&show_icons=true&theme=transparent&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarathkpreman&layout=compact&theme=transparent&hide_border=true" />
+</p>
+
+
