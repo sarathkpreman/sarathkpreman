@@ -23,7 +23,7 @@ Machine Learning:
 
 > current_status
 
-Building   : AI voice transcriptor and AI Gym trainer
+Building   : AI Gym trainer
 Learning   : Machine learning fundamental (maths and core algorithms) and Cloud skills
 Exploring  : AI/ML Pioneers research papers..
 
