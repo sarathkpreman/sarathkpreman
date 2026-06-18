@@ -35,9 +35,9 @@ See links below ↓
 
 ## GitHub Analytics
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sarathkpreman&theme=transparent&hide_border=true" />
-</p>
+</p> -->
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sarathkpreman&show_icons=true&theme=transparent&hide_border=true&count_private=true" height="165"/>
