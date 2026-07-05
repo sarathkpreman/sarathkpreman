@@ -10,7 +10,7 @@ Focus: clean architecture, real-world projects, and LLM integrations, AI/ML rese
 
 > skills --list
 
-Languages     : C, Python, JavaScript, TypeScript
+Languages     : C, Python, JavaScript, TypeScript, Go
 Frontend      : React, Tailwind CSS
 Backend       : Express.js, NestJS, REST, GraphQL
 Databases     : PostgreSQL, MySQL, MongoDB, Redis
