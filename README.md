@@ -1,5 +1,5 @@
 <h1 align="center">Sarath K P</h1>
-<p align="center"><i>Full-Stack Developer · AI/ML Enthusiast · Kerala, India</i></p>
+<p align="center"><i>Full-Stack Developer . AI/ML Enthusiast · Kerala, India</i></p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/sarath-k-p-264764245"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
